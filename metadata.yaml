@@ -1,4 +1,5 @@
 _repo: The-Story-of-Prague_46533
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Erichsen, Nelly
@@ -6,9 +7,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/39068
 covers:
 - cover_type: archival
-  image_path: 46533/46533-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46533-h/images/cover.jpg
 creator:
   author:
     agent_name: Lützow, Count Francis (František)
@@ -17,6 +16,8 @@ creator:
     gutenberg_agent_id: '43835'
     url: http://www.gutenberg.org/2009/agents/43835
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46533#The-Story-of-Prague
 gutenberg_bookshelf: Mediæval Town Series
 gutenberg_issued: '2014-08-08'
 gutenberg_type: Text
